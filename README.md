@@ -49,3 +49,4 @@ python -m http.server 8765
     ├── *.png           # 截图/素材
     └── grid.mp4        # 宫格动画视频
 ```
+<img width="736" height="553" alt="image" src="https://github.com/user-attachments/assets/e8322553-a126-4e10-95a0-0e8bf718ed06" />
